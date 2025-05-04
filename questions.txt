@@ -1,0 +1,7 @@
+qué es def __init__ ?
+
+qué es @property ?
+
+qué es @radius.setter, qué es setter y getter?
+
+qué es self._radius, por qué lleva _ y qué pasa si no lo llevara?
