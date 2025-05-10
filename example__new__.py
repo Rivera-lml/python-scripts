@@ -19,6 +19,7 @@ class Car:
     def __init__(self):
         print('Initializing car')
 
-mb = Vehicle(2)
+#mb = Vehicle(2)
 
 bus = Vehicle(10)
+
