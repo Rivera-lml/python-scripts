@@ -9,4 +9,4 @@ class Persona:
 p1 = Persona("Ana", 30)
 p2 = Persona("Ana", 30)
 
-print(p1 == p2)  # True: both have the same name and age
+print(p1 == p2)  # True: both have the same name and age   
