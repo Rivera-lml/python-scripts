@@ -5,9 +5,9 @@ class Employee:
         self.details = kwargs
 
     def show_employee(self):
-        print(f'Employee: {self.name}')
+        print('Employee:', self.name)
         print('Skills', self.skills)
         print('Details', self.details)
 
-employee = Employee('Adrian', 'Python', 'Java', 'C++', age=30, city = 'Santiago')
+employee = Employee('Adrian', 'Python', 'Java', 'C++', age=30, city = 'Santiago', pueblo = 'Colina')
 employee.show_employee()
