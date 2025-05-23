@@ -19,17 +19,15 @@ class Employee:
         del self._salary
 
 # create an instance of Employee
-
 employee = Employee("Ana", 5000)
 print(employee.salary)
-
 
 # modify the salary in a controlled manner
 employee.salary = 6000
 print(employee.salary)
 
 # trying to stablish a negative salary
-# employee.salary = -1000
+#employee.salary = -1000
 
 # Delete the salary
 del employee.salary
