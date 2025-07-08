@@ -19,4 +19,4 @@ for _ in range(2):
 for hilo in hilos:
     hilo.join()
 
-print(f"Saldo final: {saldo}") # expected balance: 200000
+print(f"Saldo final: {saldo}") # expected balance: 
